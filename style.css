@@ -1,0 +1,63 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  margin-bottom: 30px;   
+}
+
+#hero {
+    width: 592px;
+    margin: auto}
+
+#balls img /* balls!!!*/
+{
+  width: 98,39px;
+}
+
+
+h1 {
+  font-weight: 400;
+  text-align: center;
+  font-family: "Inter", sans-serif;
+  font-size: 49px;
+  line-height: 56px;
+  font-weight: normal;
+}
+
+h1 span {
+  font-weight: bold;
+  margin-bottom: 32px;}
+
+span, a {
+  color: #ff9900;
+  font-weight: bold;}
+
+a { font-weight: normal;}
+
+p {text-align: center;
+  width: auto;
+  font-style: normal;
+  font-family: 'Open Sans';
+  font-size: 14px;
+  line-height: 28px;
+  color: #7d7987;
+}
+span p {
+  color: #7d7987;
+}
+
+#footer a + a {
+    margin-right: 28px;
+}
+
+.line {
+width: 568px;
+height: 0px;
+border: 1px solid #ECEFF2;
+margin: auto;
+
+}
+
+#balls {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;}
